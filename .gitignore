@@ -69,5 +69,9 @@ Derived/
 ### Tuist managed dependencies ###
 Tuist/.build
 
+## SPM
+Package.resolved
+.package.resolved
+
 ### SDK Dump JSON
 sdk-dump.json
