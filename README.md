@@ -54,7 +54,7 @@ Failed to load module: PublicSymbolsMissingModuleExample
 ## Notes
 
 - The `missing required module` error occurs when a public symbol in `PackageA` comes from the `Adjust` package. It does NOT occur if there are no public symbols in `PackageA` that come from `Adjust`.
-- The `missing required module` error does not occur for the PackageB module, which also has symbols exposed publicly via `PackageA`.
+- The `missing required module` error does not occur for the `PackageB` module, which also has symbols exposed publicly via `PackageA`.
 - The following manual steps can remediate the error, but are very hacky:
   1. `mkdir -p .build/Build/Products/Debug-iphonesimulator/Adjust.framework/Modules`
   2. `cp Tuist/.build/tuist-derived/Adjust/Adjust.modulemap .build/Build/Products/Debug-iphonesimulator/Adjust.framework/Modules/module.modulemap`
