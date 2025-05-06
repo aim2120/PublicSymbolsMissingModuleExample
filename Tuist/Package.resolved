@@ -1,5 +1,5 @@
 {
-  "originHash" : "6253eef156fcb60a958c070db24ebd82e90f24ba53535abff328383b61269f5e",
+  "originHash" : "906d06425885ba34c8ef8726b62bcc09fa6ce0ad48298896db4a0fae4d9774bc",
   "pins" : [
     {
       "identity" : "ios_sdk",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageA",
       "state" : {
-        "revision" : "be1ee66cb6a3aee9ca92f47f38eb6a667297161e",
-        "version" : "0.0.2"
+        "revision" : "b81168a3c96eedd69b902627da6120c73d78b73f",
+        "version" : "0.0.3"
       }
     },
     {

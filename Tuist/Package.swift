@@ -15,7 +15,7 @@ import PackageDescription
 let package = Package(
     name: "PublicSymbolsMissingModuleExample",
     dependencies: [
-        .package(url: "https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageA", from: "0.0.2"),
+        .package(url: "https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageA", from: "0.0.3"),
         // Add your own dependencies here:
         // .package(url: "https://github.com/Alamofire/Alamofire", from: "5.0.0"),
         // You can read more about dependencies here: https://docs.tuist.io/documentation/tuist/dependencies
