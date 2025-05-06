@@ -1,0 +1,24 @@
+{
+  "originHash" : "d845cadbb5b6240ddcc93a0613eda3f256c2f325f069d6442e086a5e748935d3",
+  "pins" : [
+    {
+      "identity" : "publicsymbolsmissingmoduleexample-packagea",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageA",
+      "state" : {
+        "revision" : "261b15898c81fc28547ba7f64f0a3b1f2c6b35fd",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "publicsymbolsmissingmoduleexample-packageb",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageB",
+      "state" : {
+        "revision" : "369b6214b88d87ea33fd0e25a0f672da5eab6871",
+        "version" : "0.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
