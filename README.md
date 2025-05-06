@@ -59,3 +59,9 @@ Failed to load module: PublicSymbolsMissingModuleExample
   1. `mkdir -p .build/Build/Products/Debug-iphonesimulator/Adjust.framework/Modules`
   2. `cp Tuist/.build/tuist-derived/Adjust/Adjust.modulemap .build/Build/Products/Debug-iphonesimulator/Adjust.framework/Modules/module.modulemap`
   3. Run the same `swift api-digester` command as above and observe success
+
+## Links
+
+- [PackageA](https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageA)
+- [PackageB](https://github.com/aim2120/PublicSymbolsMissingModuleExample-PackageB)
+- [Adjust (v4.38.4)](https://github.com/adjust/ios_sdk/tree/v4.38.4)
